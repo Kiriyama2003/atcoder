@@ -1,0 +1,17 @@
+#include<bits/stdc++.h>
+using namespace std;
+#include<atcoder/all>
+using namespace atcoder;
+using ll =long long;
+#define rep(i,n) for(int i=0;i<(n);++i)
+#define REP(i,n) for(int i=1;i<=(n);++i)
+#define all(n) n.begin(),n.end()
+#define rall(n) n.rbegin(),n.rend()
+int main(){
+    //ios::sync_with_stdio(false);
+    //cin.tie(nullptr);
+    int n,sum=0;  cin>>n;
+    rep(i,n){ int num;    cin>>num;   sum+=num; }
+    cout<<sum<<endl;
+    return 0;
+}

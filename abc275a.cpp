@@ -1,0 +1,22 @@
+#include<bits/stdc++.h>
+using namespace std;
+#include<atcoder/all>
+using namespace atcoder;
+using ll =long long;
+#define rep(i,n) for(int i=0;i<(n);++i)
+#define REP(i,n) for(int i=1;i<=(n);++i)
+#define all(n) n.begin(),n.end()
+#define rall(n) n.rbegin(),n.rend()
+int main(){
+    //ios::sync_with_stdio(false);
+    //cin.tie(nullptr);
+
+    int n;  cin>>n;
+    int num;    int max_num=0;
+    rep(i,n){
+        int h;  cin>>h;
+        if(h >max_num) {num=i+1; max_num=h;}
+    }
+    cout<<num<<endl;
+    return 0;
+}

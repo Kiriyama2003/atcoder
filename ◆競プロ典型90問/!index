@@ -1,0 +1,22 @@
+https://atcoder.jp/contests/typical90
+001
+    典型, ()の辞書順
+    1.bit全探索
+        https://drken1215.hatenablog.com/entry/2021/06/12/151200
+    2. nextpermutation
+        
+    3. 再帰
+002
+    
+003
+    木の直径求める
+    1. BFS
+    2. DFS スタック
+        けんちょん：https://drken1215.hatenablog.com/entry/2021/06/12/181400
+    3. DFS 再帰,
+        関数が2つに分けられているから1つにしたいな, しなくてもいいのかな, わからん
+010
+    累積和
+
+
+

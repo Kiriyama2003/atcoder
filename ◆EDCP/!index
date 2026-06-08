@@ -1,0 +1,35 @@
+https://atcoder.jp/contests/dp
+A - Frog1
+    右に 1 or 2 ジャンプ
+B - Frog2
+    右にいくつでもジャンプ
+C - Vaction
+    同じ遊びは2日連続できない
+D - Knapsack
+    rep品物 rep 重さ dpの値は価値
+        dp[n]のうち, 最大値が答え
+E- Knapsack 2
+    rep品物 rep 価値 dpの値は重さ
+        dp[n]を後ろから見ていって, 初めてw以下ならそれが答え
+F - LCS
+    2津の文字列で共通する部分列のうち, 最長のもの
+G - Longest Path
+H - Grid 1
+I - Coins
+J - Sushi ✖
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T✖
+U
+V✖
+W✖
+X✖
+Y✖
+Z

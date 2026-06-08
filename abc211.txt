@@ -1,0 +1,14 @@
+
+
+C
+    c
+        snukeコピペ
+        もらうdp
+        配るdp
+    cc
+        もらうdp自作
+    ccc  
+        配るdp自作
+    cccc
+        1次元で済ます
+        for(n) for(8) の順番が必須 
